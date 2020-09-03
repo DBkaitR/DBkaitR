@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kaitlyn😎 I'm a student at DBHS, 🌱 how to code games, and 🔭 projectiles and game design layouts.
 
 <!--
 **DBkaitR/DBkaitR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
